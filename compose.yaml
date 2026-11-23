@@ -1,0 +1,10 @@
+# CYB 3353 Project 2 - Uptime Kuma
+# Expose the web dashboard only on localhost; access remotely via SSH tunnel.
+services:
+  uptime-kuma:
+    image: louislam/uptime-kuma:2
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "127.0.0.1:3001:3001"
