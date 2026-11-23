@@ -484,5 +484,5 @@ git push
 - [Ubuntu — OpenSSH server](https://ubuntu.com/server/docs/how-to/security/openssh-server/)
 - [Ubuntu — Firewalls](https://ubuntu.com/server/docs/how-to/security/firewalls/)
 - [Proxmox VE — Backup and Restore (vzdump)](https://pve.proxmox.com/pve-docs/chapter-vzdump.html)
-- Course source: *CYB 3353 — Project 2 Kickoff (Fall 2026)*, especially slides 2–9 (assignment instructions and deliverables).
+
 
