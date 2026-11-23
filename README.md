@@ -6,7 +6,7 @@ title: "Project 2 — Self-Hosted Uptime Kuma on Proxmox"
 
 **Course:** CYB 3353 · **Project:** Self-Hosted Service · **Platform:** Proxmox VE + Ubuntu Server + Docker Compose  
 **Student account:** `pam5296` · **VM:** `33536510 (wujek)` · **Operating system:** Ubuntu 24.04.5 LTS  
-**Documented coursework:** Fall 2026 · **Submission target:** November 22, 2026, 11:59 PM CT
+
 
 > **Project overview.** I deployed the approved Uptime Kuma monitoring service on my course Proxmox Ubuntu VM. The setup uses the official Docker Engine repository, Docker Compose, persistent SQLite data, key-only SSH, UFW, automated Ubuntu updates, a seven-archive backup script, a tested application-data restore, and a separate Proxmox VM backup. Screenshots below are cropped from my actual lab results, not example images
  |
